@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Projeleme</string>
+    <string-array name="name_array">
+        <item>Emily Harper</item>
+        <item>James Carter</item>
+        <item>Alexis Young</item>
+        <item>Brandon Rivera</item>
+        <item>Olivia Knight</item>
+        <item>Ethan Foster</item>
+        <item>Ava Scott</item>
+        <item>Liam Turner</item>
+        <item>Chloe Brooks</item>
+        <item>Lucas Morgan</item>
+    </string-array>
+
+    <string-array name="desc_array">
+        <item>Lets make some unforgettable memories together. Im spontaneous, love surprises, and live for romantic adventures.</item>
+        <item>Looking for a partner to share laughs, stories, and a spark that doesn’t fade. Let’s see where this goes!</item>
+        <item>Passionate about life and love. Looking for someone who’s ready for fun and a bit of flirtatious charm.</item>
+        <item>Charming, witty, and ready to make every moment count. Let’s turn some heads together!</item>
+        <item>Confident, caring, and a bit of a romantic at heart. Looking for someone special to share it with.</item>
+        <item>Fun, fearless, and looking for someone who’s ready to dive into life’s adventures together.</item>
+        <item>Sassy, sweet, and a bit of a romantic. I believe in chemistry, so let’s see if we have it!</item>
+        <item>Adventurous, witty, and looking for someone whos up for good laughs and great times.</item>
+        <item>Smooth talker with a heart of gold. Looking for someone who loves deep conversations.</item>
+        <item>Driven and down-to-earth, with a bit of a mischievous side. Let’s bring out the best in each other.</item>
+    </string-array>
+
+    <string-array name="age_array">
+        <item>25</item>
+        <item>28</item>
+        <item>22</item>
+        <item>30</item>
+        <item>27</item>
+        <item>24</item>
+        <item>26</item>
+        <item>29</item>
+        <item>23</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string-array name="preference_array">
+        <item>Heterosexual</item>
+        <item>Heterosexual</item>
+        <item>Bisexual</item>
+        <item>Heterosexual</item>
+        <item>Homosexual</item>
+        <item>Bisexual</item>
+        <item>Heterosexual</item>
+        <item>Heterosexual</item>
+        <item>Bisexual</item>
+        <item>Homosexual</item>
+    </string-array>
+
+    <string-array name="phone_number_array">
+        <item>213-123-4322</item>
+        <item>234-567-8911</item>
+        <item>234-567-8912</item>
+        <item>234-567-8913</item>
+        <item>234-567-8914</item>
+        <item>234-567-8915</item>
+        <item>234-567-8916</item>
+        <item>234-567-8917</item>
+        <item>234-567-8918</item>
+        <item>234-567-8919</item>
+    </string-array>
+</resources>
