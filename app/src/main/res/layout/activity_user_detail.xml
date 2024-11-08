@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/img_1">
+
+
 
     <data>
         <variable
@@ -69,6 +72,15 @@
             android:text="TextView"
             app:layout_constraintStart_toStartOf="@+id/preferenceView"
             app:layout_constraintTop_toBottomOf="@+id/preferenceView" />
+
+        <ImageView
+            android:id="@+id/myImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:layout_constraintStart_toStartOf="@+id/numberView"
+            app:layout_constraintTop_toBottomOf="@+id/numberView"
+            android:src="@drawable/img" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
